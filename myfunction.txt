@@ -1,7 +1,3 @@
 one function - i have added one important function here
 two function - i have added a another important function here
 three function - i have added an unnecessary function here
-
-
-newfunction - new function added
-newerFunction - newer function added

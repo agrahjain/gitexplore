@@ -1,0 +1,5 @@
+#this is a comment 
+
+*.js
+node_module/
+assests/videos
